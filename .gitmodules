@@ -1,0 +1,6 @@
+[submodule "logic-form"]
+	path = logic-form
+	url = git@github.com:gipsyh/logic-form.git
+[submodule "partitioned-smc"]
+	path = partitioned-smc
+	url = git@github.com:gipsyh/partitioned-smc.git

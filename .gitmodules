@@ -22,3 +22,6 @@
 [submodule "sylvan-sys"]
 	path = sylvan-sys
 	url = git@github.com:gipsyh/sylvan-sys.git
+[submodule "ltl2ba"]
+	path = ltl2ba
+	url = git@github.com:gipsyh/ltl2ba.git

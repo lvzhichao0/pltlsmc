@@ -25,3 +25,7 @@
 [submodule "ltl2ba"]
 	path = ltl2ba
 	url = git@github.com:gipsyh/ltl2ba.git
+[submodule "lace"]
+	path = lace
+	url = git@github.com:gipsyh/lace.git
+	branch = fixed

@@ -29,3 +29,6 @@
 	path = lace
 	url = git@github.com:gipsyh/lace.git
 	branch = fixed
+[submodule "sylvan"]
+	path = sylvan
+	url = git@github.com:gipsyh/sylvan.git

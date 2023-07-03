@@ -4,9 +4,6 @@
 [submodule "partitioned-smc"]
 	path = partitioned-smc
 	url = git@github.com:gipsyh/partitioned-smc.git
-[submodule "cudd-rs"]
-	path = cudd-rs
-	url = git@github.com:gipsyh/cudd-rs.git
 [submodule "fsmbdd"]
 	path = fsmbdd
 	url = git@github.com:gipsyh/fsmbdd.git

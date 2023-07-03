@@ -2,8 +2,8 @@
 git submodule init
 git submodule update
 apt update
-apt upgrade
-apt install cmake
+apt upgrade -y
+apt install -y cmake
 export RUSTUP_DIST_SERVER="https://rsproxy.cn"
 export RUSTUP_UPDATE_ROOT="https://rsproxy.cn/rustup"
 curl --proto '=https' --tlsv1.2 -sSf https://rsproxy.cn/rustup-init.sh | sh

@@ -1,6 +1,6 @@
 #!/bin.sh
-git init
-git update
+git submodule init
+git submodule update
 apt update
 apt upgrade
 apt install cmake
